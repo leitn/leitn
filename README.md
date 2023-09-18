@@ -1,10 +1,10 @@
-Bonjour Monde !
+# Bonjour Monde !
 
 I'm currently studying at 42 Paris. Just doing my best !
 
 ------
 
-42 School Projects
+# 42 School Projects
 
 ![libfte](https://github.com/leitn/leitn/assets/104629160/748668f3-238c-472a-b87a-0e6cc7735634)
 ![get_next_linee](https://github.com/leitn/leitn/assets/104629160/20d6801e-6a49-4c0c-b47e-4e906621d0fc)

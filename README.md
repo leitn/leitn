@@ -1,6 +1,7 @@
 # Bonjour Monde !
 
-I'm currently studying at 42 Paris. Just doing my best !
+I'm currently studying at 42 Paris. 
+Just doing my best !  💪
 
 ------
 

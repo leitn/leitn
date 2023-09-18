@@ -6,8 +6,11 @@ Just doing my best !  💪
 </p>
 
 ------
-<p align="center">
+
 ## 42 School Projects
+<p align="center">
+  
+-----
 
 ![libfte](https://github.com/leitn/leitn/assets/104629160/748668f3-238c-472a-b87a-0e6cc7735634)
 ![get_next_linee](https://github.com/leitn/leitn/assets/104629160/20d6801e-6a49-4c0c-b47e-4e906621d0fc)

@@ -16,6 +16,7 @@ Just doing my best !  💪
 ![born2beroote](https://github.com/leitn/leitn/assets/104629160/bb979e4f-5899-4831-a006-ddd80554d878)
 ![push_swape](https://github.com/leitn/leitn/assets/104629160/d04034e0-46b3-4c0d-81fd-4f866c74af5d)
 ![so_longe](https://github.com/leitn/leitn/assets/104629160/0c55e2da-e09d-4df4-8888-222eecc7c1c8)
+![minitalke](https://github.com/leitn/leitn/assets/104629160/802ece46-4c9e-4091-9843-2e566202d0a7)
 
 </p>
 

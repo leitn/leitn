@@ -8,9 +8,10 @@
 
 
 ------
+<p align="center" width="100%">
 <a href="url">
 <img src="https://github-readme-stats.vercel.app/api?username=leitn&show_icons=true&theme=onedark" align="center"></img></a><a href="url"><img src="https://github.com/leitn/leitn/assets/104629160/912d7386-90e6-4cd3-8a89-c287ca375798"  align="center" width="150"></img></a>
-
+</p>
 
 ------
 

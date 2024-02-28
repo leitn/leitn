@@ -1,13 +1,13 @@
-<h2 align="center">👋 Hi ! I'm Leila</h2>
+<h2 align="center">👋 <i>Hi ! I'm Leila</i></h2>
 
 <p align="center">
-I'm currently studying at 42 Paris. 
-Just doing my best !  💪
+I'm currently studying at [42](https://42.fr/).
 </p>
 
 ------
 
-## 42 School Projects
+<details>
+  <summary>42 School Projects</summary>
 <p align="center">
   
 ![libfte](https://github.com/leitn/leitn/assets/104629160/748668f3-238c-472a-b87a-0e6cc7735634)
@@ -21,3 +21,4 @@ Just doing my best !  💪
 
 </p>
 
+</details>

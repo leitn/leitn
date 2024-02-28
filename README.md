@@ -1,7 +1,7 @@
 <h2 align="center">👋 <i>Hi ! I'm Leila</i></h2>
 
 <p align="center">
-I'm currently studying at [42](https://42.fr/).
+I'm currently studying at <a href="https://42.fr">42 Paris</a>
 </p>
 
 ------

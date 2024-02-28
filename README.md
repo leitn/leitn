@@ -1,4 +1,6 @@
-<h2 align="center">👋 <i>Hi ! I'm Leila</i></h2>
+<img align="center">![Title](https://github.com/leitn/leitn/assets/104629160/7496aa62-a1c4-44f7-bd0b-cd023c63593f)
+
+</img>
 
 <p align="center">
 I'm currently studying at <a href="https://42.fr">42 Paris</a>

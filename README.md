@@ -3,7 +3,7 @@
 </img>
 
 <p align="center">
-<img src="https://github.com/leitn/leitn/assets/104629160/62600b87-31a9-4c3b-a969-95e9325a299e" width="48">I'm currently studying at <a href="https://42.fr">42 Paris</a>
+I'm currently studying at <a href="https://42.fr">42 Paris</a><img src="https://github.com/leitn/leitn/assets/104629160/62600b87-31a9-4c3b-a969-95e9325a299e" width="25">
 </p>
 
 

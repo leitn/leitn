@@ -1,4 +1,4 @@
-<p align="center">###👋 Hi ! I'm Leila</p>
+<h2 align="center">👋 Hi ! I'm Leila</h2>
 
 <p align="center">
 I'm currently studying at 42 Paris. 

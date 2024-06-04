@@ -26,7 +26,8 @@ I'm currently studying at <a href="https://42.fr">42 Paris</a><img src="https://
 <img src="https://github.com/leitn/leitn/assets/104629160/802ece46-4c9e-4091-9843-2e566202d0a7" align="center"></img></a><a href="url">
 <img src="https://github.com/leitn/leitn/assets/104629160/2c22a1a9-0a5f-4557-8b0d-00c6b31dfcf9" align="center"></img></a><a href="url">
 <img src="https://github.com/leitn/leitn/assets/104629160/da4b56f7-4c80-4caf-9df7-49e48b3aabe8" align="center"></img></a><a href="url">
-<img src="https://github.com/leitn/leitn/assets/104629160/9c8b8384-5ab9-4034-be02-9eea95080f51" align="center"></img></a>
+<img src="https://github.com/leitn/leitn/assets/104629160/9c8b8384-5ab9-4034-be02-9eea95080f51" align="center"></img></a><a href="url">
+<img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3de.png?raw=true" align="center"></img></a>
   
 
 
